@@ -1,0 +1,32 @@
+Result for user 5
+
+
+
+== In which country panamas was made? ==
+
+ User answer Ecuador
+
+Correct
+
+== What is the Pi number equal? ==
+
+ User answer 3.14
+
+Correct
+
+== How many years were century war? ==
+
+ User answer 116
+
+Correct
+
+== What does it mean lustra in Polish? ==
+
+ User answer Mirror
+
+Correct Correct answers 4
+
+ Incorrect answers 0
+
+Correct answers percentage 100.0
+
